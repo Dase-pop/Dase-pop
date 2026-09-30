@@ -21,6 +21,7 @@ Currently focused on **Astro**, **Tailwind**, and **static site deployment**. Ev
 - [How I Set Up a Free Blog with Astro and Cloudflare Pages](https://codex-blog-6v6.pages.dev/blog/free-blog-astro-cloudflare/) — a complete walkthrough, including the version traps
 - [Fixing the tsconfigPaths Error in Astro + Tailwind 4](https://codex-blog-6v6.pages.dev/blog/fixing-tsconfigpaths-astro/) — the Vite 8 / Rolldown incompatibility, explained
 - [A quieter corner of the internet](https://codex-blog-6v6.pages.dev/blog/welcome/) — why this journal exists
+- - [How to Connect GitHub to Cloudflare Pages](https://codex-blog-6v6.pages.dev/blog/connect-github-cloudflare-pages/) — the full setup, including the `npm ci` trap
 
 ### Projects
 
