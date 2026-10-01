@@ -25,6 +25,7 @@ Currently focused on **Astro**, **Tailwind**, and **static site deployment**. Ev
   - - [Why My GitHub Commits Were Authored by Security Tester](https://codex-blog-6v6.pages.dev/blog/git-author-security-tester/) — a two-minute fix for the wrong Git identity
     - - [How My ls Command Was Lying to Me](https://codex-blog-6v6.pages.dev/blog/ls-command-lying/) — a debugging story about a shell alias, and the four commands that caught it
       - - [A Checklist for Silent Command Failures](https://codex-blog-6v6.pages.dev/blog/silent-command-failures/) — seven commands for diagnosing wrong-but-not-erroring tools
+        - - [How to Host a Blog for Free in 2026](https://codex-blog-6v6.pages.dev/blog/free-blog-hosting-2026/) — a realistic cost breakdown of running a blog for $0/month
 
 ### Projects
 
