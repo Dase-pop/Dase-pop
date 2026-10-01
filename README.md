@@ -23,6 +23,7 @@ Currently focused on **Astro**, **Tailwind**, and **static site deployment**. Ev
 - [A quieter corner of the internet](https://codex-blog-6v6.pages.dev/blog/welcome/) — why this journal exists
 - - [How to Connect GitHub to Cloudflare Pages](https://codex-blog-6v6.pages.dev/blog/connect-github-cloudflare-pages/) — the full setup, including the `npm ci` trap
   - - [Why My GitHub Commits Were Authored by Security Tester](https://codex-blog-6v6.pages.dev/blog/git-author-security-tester/) — a two-minute fix for the wrong Git identity
+    - - [How My ls Command Was Lying to Me](https://codex-blog-6v6.pages.dev/blog/ls-command-lying/) — a debugging story about a shell alias, and the four commands that caught it
 
 ### Projects
 
